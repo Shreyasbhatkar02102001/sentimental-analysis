@@ -1,6 +1,3 @@
-Sure, here's a simple README message for your GitHub repository for the sentiment analysis on WhatsApp dataset project:
-
----
 
 # WhatsApp Sentiment Analysis
 
